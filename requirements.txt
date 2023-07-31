@@ -3,7 +3,7 @@ argparse
 asyncio
 datetime
 pandas
-pymongo
-telethon
+pymongo==4.0.2
+telethon==1.27.0
 time
 tqdm
