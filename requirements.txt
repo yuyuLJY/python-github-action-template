@@ -4,6 +4,6 @@ asyncio
 datetime
 pandas
 pymongo==4.0.2
-telethon==1.27.0
+telethon==1.29.2
 time
 tqdm
